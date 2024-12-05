@@ -1,0 +1,13 @@
+analyst_task:
+  description: >
+    {pm} 提出客戶的要求，希望有一個系統登入作業
+  expected_output: >
+    依{pm} 提出撰寫系統開發需求，條列出10項
+  agent: System_development_analyst
+
+development_task:
+  description: >
+    查看您獲得的上下文並將每個主題擴展為報告的完整部分。確保報告詳細並包含所有相關資訊。
+  expected_output: >
+    產生以Python程式開發的程式碼
+  agent: Program_development
