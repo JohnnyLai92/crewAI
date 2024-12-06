@@ -1,3 +1,5 @@
+2024.12.6
+
 <div align="center">
 
 ![Logo of CrewAI, two people rowing on a boat](./docs/crewai_logo.png)
